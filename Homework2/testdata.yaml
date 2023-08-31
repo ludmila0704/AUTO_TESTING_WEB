@@ -1,0 +1,11 @@
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 1
+
+username: "oLonova"
+password: "47497e63de"
+title: 'post1'
+description: "description"
+content: "There are best content"
+
+
