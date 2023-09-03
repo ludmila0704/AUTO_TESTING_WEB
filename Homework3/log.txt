@@ -1,0 +1,31 @@
+= 2023-09-03 23:02:42 INFO ====== WebDriver manager ======
+= 2023-09-03 23:02:44 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-03 23:02:44 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-03 23:02:45 INFO There is no [win64] geckodriver "v0.33.0" for browser firefox "114.0" in cache
+= 2023-09-03 23:02:45 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-03 23:02:45 INFO Getting latest mozilla release info for v0.33.0
+= 2023-09-03 23:02:45 INFO About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+= 2023-09-03 23:02:46 INFO Driver downloading response is 200
+= 2023-09-03 23:02:46 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-03 23:02:47 INFO Driver has been saved in cache [C:\Users\Samsung\.wdm\drivers\geckodriver\win64\v0.33.0]
+= 2023-09-03 23:02:54 INFO Test1 Starting
+= 2023-09-03 23:02:55 INFO Send test to element //*[@id="login"]/div[1]/label/input
+= 2023-09-03 23:02:55 INFO Send test to element //*[@id="login"]/div[2]/label/input
+= 2023-09-03 23:02:55 INFO Click login button
+= 2023-09-03 23:02:57 INFO Found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+= 2023-09-03 23:02:57 INFO Test2 Starting
+= 2023-09-03 23:02:57 INFO Send oLonova to element //*[@id="login"]/div[1]/label/input
+= 2023-09-03 23:02:57 INFO Send 47497e63de to element //*[@id="login"]/div[2]/label/input
+= 2023-09-03 23:02:57 INFO Click login button
+= 2023-09-03 23:02:58 INFO Test3 Starting
+= 2023-09-03 23:03:00 INFO Click create new post button
+= 2023-09-03 23:03:16 INFO Send Test post to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+= 2023-09-03 23:03:16 INFO Send description to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+= 2023-09-03 23:03:16 INFO Send ContentNew to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+= 2023-09-03 23:03:17 INFO Click save button
+= 2023-09-03 23:03:32 INFO Test4 Starting
+= 2023-09-03 23:03:32 INFO Click create new post link contact us
+= 2023-09-03 23:03:47 INFO Send Olga to element //*[@id="contact"]/div[1]/label/input
+= 2023-09-03 23:03:47 INFO Send myemail@lu.com to element //*[@id="contact"]/div[2]/label/input
+= 2023-09-03 23:03:47 INFO Send Contact us Content to element //*[@id="contact"]/div[3]/label/span/textarea
+= 2023-09-03 23:03:47 INFO Click contact us button
