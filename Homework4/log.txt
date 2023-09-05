@@ -1,0 +1,14 @@
+= 2023-09-06 02:06:13 INFO ====== WebDriver manager ======
+= 2023-09-06 02:06:15 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-06 02:06:15 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-06 02:06:15 INFO There is no [win64] geckodriver "v0.33.0" for browser firefox "114.0" in cache
+= 2023-09-06 02:06:15 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-06 02:06:16 INFO Getting latest mozilla release info for v0.33.0
+= 2023-09-06 02:06:16 INFO About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-win64.zip
+= 2023-09-06 02:06:17 INFO Driver downloading response is 200
+= 2023-09-06 02:06:17 INFO Get LATEST geckodriver version for 114.0 firefox
+= 2023-09-06 02:06:17 INFO Driver has been saved in cache [C:\Users\Samsung\.wdm\drivers\geckodriver\win64\v0.33.0]
+= 2023-09-06 02:06:24 INFO Test1 Starting
+= 2023-09-06 02:06:27 INFO Test2 Starting
+= 2023-09-06 02:06:29 INFO Test3 Starting
+= 2023-09-06 02:06:58 INFO Test4 Starting

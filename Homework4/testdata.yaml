@@ -1,0 +1,19 @@
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 1
+implicitly_wait: 5
+username: "oLonova"
+password: "47497e63de"
+test_title: "Test post"
+test_description: "description"
+test_content: "ContentNew"
+
+contact_us_name: "Olga"
+contact_us_email: "myemail@lu.com"
+contact_us_content: "Contact us Content"
+alert: "Form successfully submitted"
+log_email: None
+log_email_pass: None
+log_name: log.txt
+report_name: report.html
+

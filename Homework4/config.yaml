@@ -1,0 +1,4 @@
+address: "https://test-stand.gb.ru/gateway/login"
+username: "oLonova"
+password: "47497e63de"
+address_posts: "https://test-stand.gb.ru/api/posts"
